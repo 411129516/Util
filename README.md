@@ -1,2 +1,2 @@
 # Util
-# this project save my usualy Utils on js code or java code.
+# this project save my usually Utils on js code or java code.
